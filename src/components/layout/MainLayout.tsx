@@ -92,7 +92,7 @@ export function MainLayout() {
         <div className="flex h-14 items-center px-4">
           <div className="flex items-center gap-2">
             {isMobile && <MobileSidebar />}
-            <span className="font-bold text-lg hidden sm:inline-block">KESI</span>
+            <span className="font-bold text-lg hidden sm:inline-block">AIRIOT</span>
           </div>
 
           {/* 中台导航菜单 */}
